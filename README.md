@@ -8,7 +8,7 @@
 
      
 - 🌱 I’m currently learning **NextJs and ExpressJs**
-
+    
 - 💬 Ask me about **ReactJs and NodeJs**
 
 - 📫 How to reach me **akshuzi123@gmail.com**
