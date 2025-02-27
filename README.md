@@ -13,7 +13,7 @@
     
 - 📫 How to reach me **akshuzi123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/akshat-shrivastava01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-shrivastava01" height="30" width="40" /></a>
 <a href="https://instagram.com/_akshat_shrivastava0104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akshat_shrivastava0104" height="30" width="40" /></a>
