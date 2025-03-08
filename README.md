@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=AkshatShrivastava0104&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AkshatShrivastava0104&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatShrivastava0104&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![.](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AkshatShrivastava0104&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
