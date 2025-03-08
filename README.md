@@ -1,5 +1,7 @@
 # 💫 About Me:
-- I'm currently learning NextJs with advanced backend development<br>-I learned ReactJs and NodeJs<br>- Want to reach me then email me on sshrivastava.akshatt@gmail.com
+- I'm currently learning NextJs with advanced backend development<br>
+- I learned ReactJs and NodeJs<br>
+- Want to reach me then email me on sshrivastava.akshatt@gmail.com
 
 
 ## 🌐 Socials:
