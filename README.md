@@ -2,7 +2,7 @@
 - I'm currently learning NextJs with advanced backend development<br>
 - I learned ReactJs and NodeJs<br>
 - Want to reach me then email me on sshrivastava.akshatt@gmail.com
-
+ 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JGBUtrZb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akshat_shrivastava0104) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AkshatShrivastava01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sshrivastava.akshatt@gmail.com) 
