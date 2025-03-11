@@ -1,4 +1,4 @@
-Hey, I'M Akshat Shrivastava
+# Hey, I'M Akshat Shrivastava
 
 # 💫 About Me:
 🔭 I’m currently working on KPI-TRACKER Full-Stack Project<br>🌱 I’m currently learning NextJs with advanced backend development <br>💬 Ask me about React and NodeJs<br>⚡ Fun fact is I dont't like coding 
