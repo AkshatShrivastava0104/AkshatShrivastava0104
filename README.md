@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 Built full-stack and backend-focused projects applying advanced concepts in system design, DSA, and real-world problem solving.<br>🌱Tech stack includes Node.js, Express.js, React, PostgreSQL, Docker, Neo4j, and C++, with focus on performance and scalability. <br>💬Designed data-driven engines such as code analyzers, graph databases, and microservices for ETA prediction with optimized query performance.<br>⚡ Implemented real-time features like SOS ride matching, traffic-aware routing, and relationship graph discovery.<br> 🎯 Projects emphasize efficiency, optimization, and reusability, achieving measurable outcomes like 85% prediction accuracy and sub-100ms response times.
-   
+🌱 Built full-stack and backend projects applying system design, DSA, and real-world problem solving.<br>
+🛠️ Tech stack includes Node.js, Express.js, React, PostgreSQL, Docker, Neo4j, and C++.<br>
+💡 Designed engines like code analyzers, graph databases, and ETA prediction microservices.<br>
+⚡ Implemented real-time features such as SOS ride matching and traffic-aware routing.<br>
+🎯 Focused on efficiency, optimization, and reusability with sub-100ms response times.<br>
+
       
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JGBUtrZb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akshat_shrivastava0104) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AkshatShrivastava01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sshrivastava.akshatt@gmail.com) 
