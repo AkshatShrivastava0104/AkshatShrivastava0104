@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on KPI-TRACKER Full-Stack Project<br>🌱 I’m currently learning NextJs with advanced backend development <br>💬 Ask me about React and NodeJs<br>⚡ Fun fact is I dont't like coding 
+🔭 Built full-stack and backend-focused projects applying advanced concepts in system design, DSA, and real-world problem solving.<br>🌱Tech stack includes Node.js, Express.js, React, PostgreSQL, Docker, Neo4j, and C++, with focus on performance and scalability. <br>💬Designed data-driven engines such as code analyzers, graph databases, and microservices for ETA prediction with optimized query performance.<br>⚡ Implemented real-time features like SOS ride matching, traffic-aware routing, and relationship graph discovery.<br> 🎯 Projects emphasize efficiency, optimization, and reusability, achieving measurable outcomes like 85% prediction accuracy and sub-100ms response times.
    
       
 ## 🌐 Socials:
