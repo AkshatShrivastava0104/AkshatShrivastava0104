@@ -1,9 +1,9 @@
 # 💫 About Me:
-🌱 Built full-stack and backend projects applying system design, DSA, and solving real-world problems effectively.<br>
-🛠️ Tech stack includes Node.js, Express.js, React, PostgreSQL, Docker, Neo4j, and modern C++ programming.<br>
-💡 Designed engines like code analyzers, social graph databases, and ride ETA prediction microservices.<br>
-⚡ Implemented real-time features such as SOS ride matching, traffic-aware routing, and relationship graph discovery.<br>
-🎯 Focused on efficiency, optimization, scalability, and reusability with consistent sub-100ms response times.<br>
+🌱 Built full-stack and backend projects applying system design, DSA, and solving real-world problems effectively worldwide.<br>
+🛠️ Tech stack includes Node.js, Express.js, React, PostgreSQL, Docker, Neo4j, and advanced modern C++ programming.<br>
+💡 Designed engines like code analyzers, social graph databases, and accurate ride ETA prediction microservices.<br>
+⚡ Implemented real-time features such as SOS ride matching, dynamic traffic-aware routing, and relationship graph discovery.<br>
+🎯 Focused on efficiency, optimization, scalability, reliability, and reusability with consistent sub-100ms response times.<br>
 
 
       
