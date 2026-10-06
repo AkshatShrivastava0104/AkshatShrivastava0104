@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 220" width="860" height="220">
+  <defs>
+    <linearGradient id="trophyBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0014"/>
+      <stop offset="50%" stop-color="#150226"/>
+      <stop offset="100%" stop-color="#08000f"/>
+    </linearGradient>
+
+    <linearGradient id="trophyBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff2a85"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+
+    <linearGradient id="trophyShine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="trophyCardClip">
+      <rect width="860" height="220" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .trophy-cell {
+      animation: cellPop 0.5s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+      transition: transform 0.2s ease;
+      cursor: pointer;
+    }
+    .trophy-cell:hover {
+      transform: translateY(-3px) scale(1.02);
+    }
+    .trophy-cell:hover .cell-box {
+      stroke-opacity: 1 !important;
+      fill: rgba(43, 10, 80, 0.95) !important;
+    }
+    @keyframes cellPop {
+      0% { opacity: 0; transform: scale(0.88); }
+      100% { opacity: 1; transform: scale(1); }
+    }
+
+    .card-shine {
+      animation: sweepTrophy 6s ease-in-out infinite;
+    }
+    @keyframes sweepTrophy {
+      0% { transform: translateX(-400px) skewX(-20deg); }
+      30% { transform: translateX(1100px) skewX(-20deg); }
+      100% { transform: translateX(1100px) skewX(-20deg); }
+    }
+  </style>
+
+  <g clip-path="url(#trophyCardClip)">
+    <rect width="860" height="220" fill="url(#trophyBg)"/>
+
+    <g transform="translate(24, 26)">
+      <circle cx="0" cy="-4" r="4.5" fill="#ff2a85">
+        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="12" y="0" fill="#ffffff" font-size="13" font-weight="800" font-family="-apple-system, sans-serif" letter-spacing="1">HALL OF ACHIEVEMENTS &amp; RECOGNITION</text>
+      <text x="810" y="0" fill="#a78bfa" font-size="10" font-weight="700" font-family="'JetBrains Mono', monospace" text-anchor="end">PERFORMANCE SHOWCASE</text>
+      <line x1="0" y1="10" x2="812" y2="10" stroke="rgba(255, 42, 133, 0.3)" stroke-width="1"/>
+    </g>
+
+    <g transform="translate(24, 48)">
+      
+      <g class="trophy-cell" style="animation-delay: 0.10s;" transform="translate(0, 0)">
+        <rect width="264" height="72" rx="10" fill="rgba(26, 6, 51, 0.75)" stroke="#f59e0b" stroke-opacity="0.5" stroke-width="1.2" class="cell-box"/>
+        
+        <rect x="10" y="14" width="44" height="44" rx="8" fill="rgba(255, 255, 255, 0.05)" stroke="#f59e0b" stroke-width="1"/>
+        <text x="32" y="42" font-size="22" text-anchor="middle">🏆</text>
+
+        <g transform="translate(64, 28)">
+          <text x="0" y="0" fill="#ffffff" font-size="12.5" font-weight="800" font-family="-apple-system, sans-serif">CodeChef 4★</text>
+          <text x="0" y="16" fill="#a78bfa" font-size="11" font-weight="600" font-family="'JetBrains Mono', monospace">Peak 1843 Rating</text>
+        </g>
+
+        <rect x="176" y="8" width="80" height="15" rx="3" fill="rgba(255, 42, 133, 0.18)"/>
+        <text x="216" y="19" fill="#f59e0b" font-size="7.5" font-weight="800" font-family="'JetBrains Mono', monospace" text-anchor="middle">CP SPECIALIST</text>
+      </g>
+    
+      <g class="trophy-cell" style="animation-delay: 0.18s;" transform="translate(276, 0)">
+        <rect width="264" height="72" rx="10" fill="rgba(26, 6, 51, 0.75)" stroke="#3b82f6" stroke-opacity="0.5" stroke-width="1.2" class="cell-box"/>
+        
+        <rect x="10" y="14" width="44" height="44" rx="8" fill="rgba(255, 255, 255, 0.05)" stroke="#3b82f6" stroke-width="1"/>
+        <text x="32" y="42" font-size="22" text-anchor="middle">⚡</text>
+
+        <g transform="translate(64, 28)">
+          <text x="0" y="0" fill="#ffffff" font-size="12.5" font-weight="800" font-family="-apple-system, sans-serif">Codeforces</text>
+          <text x="0" y="16" fill="#a78bfa" font-size="11" font-weight="600" font-family="'JetBrains Mono', monospace">Specialist (1585)</text>
+        </g>
+
+        <rect x="176" y="8" width="80" height="15" rx="3" fill="rgba(255, 42, 133, 0.18)"/>
+        <text x="216" y="19" fill="#3b82f6" font-size="7.5" font-weight="800" font-family="'JetBrains Mono', monospace" text-anchor="middle">ALGORITHMS</text>
+      </g>
+    
+      <g class="trophy-cell" style="animation-delay: 0.26s;" transform="translate(552, 0)">
+        <rect width="264" height="72" rx="10" fill="rgba(26, 6, 51, 0.75)" stroke="#ff2a85" stroke-opacity="0.5" stroke-width="1.2" class="cell-box"/>
+        
+        <rect x="10" y="14" width="44" height="44" rx="8" fill="rgba(255, 255, 255, 0.05)" stroke="#ff2a85" stroke-width="1"/>
+        <text x="32" y="42" font-size="22" text-anchor="middle">🔥</text>
+
+        <g transform="translate(64, 28)">
+          <text x="0" y="0" fill="#ffffff" font-size="12.5" font-weight="800" font-family="-apple-system, sans-serif">Competitive Prog</text>
+          <text x="0" y="16" fill="#a78bfa" font-size="11" font-weight="600" font-family="'JetBrains Mono', monospace">Top 5% Performer</text>
+        </g>
+
+        <rect x="176" y="8" width="80" height="15" rx="3" fill="rgba(255, 42, 133, 0.18)"/>
+        <text x="216" y="19" fill="#ff2a85" font-size="7.5" font-weight="800" font-family="'JetBrains Mono', monospace" text-anchor="middle">DATA STRUCTURES</text>
+      </g>
+    
+      <g class="trophy-cell" style="animation-delay: 0.34s;" transform="translate(0, 82)">
+        <rect width="264" height="72" rx="10" fill="rgba(26, 6, 51, 0.75)" stroke="#10b981" stroke-opacity="0.5" stroke-width="1.2" class="cell-box"/>
+        
+        <rect x="10" y="14" width="44" height="44" rx="8" fill="rgba(255, 255, 255, 0.05)" stroke="#10b981" stroke-width="1"/>
+        <text x="32" y="42" font-size="22" text-anchor="middle">☁</text>
+
+        <g transform="translate(64, 28)">
+          <text x="0" y="0" fill="#ffffff" font-size="12.5" font-weight="800" font-family="-apple-system, sans-serif">AWS Cloud Eng</text>
+          <text x="0" y="16" fill="#a78bfa" font-size="11" font-weight="600" font-family="'JetBrains Mono', monospace">Certified Cloud Eng</text>
+        </g>
+
+        <rect x="176" y="8" width="80" height="15" rx="3" fill="rgba(255, 42, 133, 0.18)"/>
+        <text x="216" y="19" fill="#10b981" font-size="7.5" font-weight="800" font-family="'JetBrains Mono', monospace" text-anchor="middle">INFRASTRUCTURE</text>
+      </g>
+    
+      <g class="trophy-cell" style="animation-delay: 0.42s;" transform="translate(276, 82)">
+        <rect width="264" height="72" rx="10" fill="rgba(26, 6, 51, 0.75)" stroke="#8b5cf6" stroke-opacity="0.5" stroke-width="1.2" class="cell-box"/>
+        
+        <rect x="10" y="14" width="44" height="44" rx="8" fill="rgba(255, 255, 255, 0.05)" stroke="#8b5cf6" stroke-width="1"/>
+        <text x="32" y="42" font-size="22" text-anchor="middle">⚙</text>
+
+        <g transform="translate(64, 28)">
+          <text x="0" y="0" fill="#ffffff" font-size="12.5" font-weight="800" font-family="-apple-system, sans-serif">Backend SDE</text>
+          <text x="0" y="16" fill="#a78bfa" font-size="11" font-weight="600" font-family="'JetBrains Mono', monospace">APIs & Microservices</text>
+        </g>
+
+        <rect x="176" y="8" width="80" height="15" rx="3" fill="rgba(255, 42, 133, 0.18)"/>
+        <text x="216" y="19" fill="#8b5cf6" font-size="7.5" font-weight="800" font-family="'JetBrains Mono', monospace" text-anchor="middle">DISTRIBUTED</text>
+      </g>
+    
+      <g class="trophy-cell" style="animation-delay: 0.50s;" transform="translate(552, 82)">
+        <rect width="264" height="72" rx="10" fill="rgba(26, 6, 51, 0.75)" stroke="#00f0ff" stroke-opacity="0.5" stroke-width="1.2" class="cell-box"/>
+        
+        <rect x="10" y="14" width="44" height="44" rx="8" fill="rgba(255, 255, 255, 0.05)" stroke="#00f0ff" stroke-width="1"/>
+        <text x="32" y="42" font-size="22" text-anchor="middle">🚀</text>
+
+        <g transform="translate(64, 28)">
+          <text x="0" y="0" fill="#ffffff" font-size="12.5" font-weight="800" font-family="-apple-system, sans-serif">EventFlow</text>
+          <text x="0" y="16" fill="#a78bfa" font-size="11" font-weight="600" font-family="'JetBrains Mono', monospace">Check-in & Ticket Sys</text>
+        </g>
+
+        <rect x="176" y="8" width="80" height="15" rx="3" fill="rgba(255, 42, 133, 0.18)"/>
+        <text x="216" y="19" fill="#00f0ff" font-size="7.5" font-weight="800" font-family="'JetBrains Mono', monospace" text-anchor="middle">MAJOR PROJECT</text>
+      </g>
+    
+    </g>
+
+    <rect x="0" y="0" width="160" height="220" fill="url(#trophyShine)" class="card-shine"/>
+    <rect width="860" height="220" rx="16" fill="none" stroke="url(#trophyBorder)" stroke-width="1.6"/>
+  </g>
+</svg>
