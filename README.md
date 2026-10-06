@@ -16,6 +16,19 @@
 
 <br><br>
 
+<!-- Cozy Coder Warm Workspace Persona -->
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="./cozy-coder.png?v=1" alt="Akshat Kumar - Cozy Coder Workspace" width="380">
+      <br>
+      <sub><b>Today's Plan:</b> [✔] Code &nbsp; [✔] Learn &nbsp; [✔] Build &nbsp; [✔] Repeat</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <!-- Badges & Profile Views -->
 <p align="center">
   <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
