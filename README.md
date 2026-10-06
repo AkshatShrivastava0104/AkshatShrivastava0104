@@ -14,12 +14,12 @@ I turn complex problems into simple, useful products. Currently exploring **Type
 
 ## ⚡ GitHub at a glance
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alex-kumar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-kumar&layout=compact&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkshatShrivastava0104&show_icons=true&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatShrivastava0104&layout=compact&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alex-kumar&theme=dark&hide_border=true&background=0D1117&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=AkshatShrivastava0104&theme=dark&hide_border=true&background=0D1117&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4" alt="GitHub streak" />
 </p>
 
 ## 🧰 Toolbox
@@ -31,7 +31,7 @@ I turn complex problems into simple, useful products. Currently exploring **Type
 <p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" /></p>
 
 ## 🤝 Let’s make something meaningful
-<p align="center"><a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/EMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a> <a href="https://www.linkedin.com/in/alex-kumar"><img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p>
+<p align="center"><a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/EMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a> <a href="https://www.linkedin.com/in/AkshatShrivastava0104"><img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p>
 
 <p align="center"><i>“Make it useful. Make it beautiful. Then make it last.”</i></p>
 
