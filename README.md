@@ -1,108 +1,112 @@
-<div align="center">
+%----------------------------------------------------------------------------------------
+% AKSHAT KUMAR - GITHUB PROFILE & SDE RESUME (LATEX TEMPLATE)
+% Compatible with pdflatex / xelatex
+%----------------------------------------------------------------------------------------
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=AKSHAT+SHRIVASTAVA;BACKEND+ENGINEER;BUILDING+SYSTEMS+THAT+SCALE;GO+%7C+NODE.JS+%7C+POSTGRESQL+%7C+REDIS" />
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.7in]{geometry}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
 
-<br>
+% Custom Color Palette (Cyberpunk Neon Pink & Deep Violet)
+\definecolor{primary}{HTML}{8B5CF6}    % Violet
+\definecolor{secondary}{HTML}{FF2A85}  % Neon Pink
+\definecolor{darkbg}{HTML}{1A0633}     % Deep Purple
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&section=header" width="80%">
+\hypersetup{
+    colorlinks=true,
+    linkcolor=secondary,
+    urlcolor=secondary
+}
 
-`⚡ Backend`   `◉ Distributed Systems`   `⌘ System Design`
+% Section formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\color{primary}
+}{}{0em}{}[\color{secondary}\titlerule \vspace{-5pt}]
 
-<br><br>
+\begin{document}
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%">
+%----------------------------------------------------------------------------------------
+% HEADER
+%----------------------------------------------------------------------------------------
+\begin{center}
+    {\Huge \textbf{\textcolor{secondary}{Akshat Kumar}}} \\ \vspace{4pt}
+    {\large \textbf{Backend Engineer $\cdot$ Distributed Systems Builder $\cdot$ SDE}} \\ \vspace{4pt}
+    \textit{"Building backends that don't break under pressure."} \\ \vspace{6pt}
+    India $\vert$ \href{mailto:[YOUR_EMAIL]}{[YOUR_EMAIL]} $\vert$ \href{https://github.com/[YOUR_GITHUB_USERNAME]}{github.com/[YOUR_GITHUB_USERNAME]} $\vert$ \href{[YOUR_LINKEDIN_URL]}{LinkedIn}
+\end{center}
 
-</div>
+\vspace{-6pt}
 
----
+%----------------------------------------------------------------------------------------
+% COMPETITIVE PROGRAMMING & METRICS
+%----------------------------------------------------------------------------------------
+\section{Competitive Programming \& Achievements}
+\begin{itemize}[leftmargin=*,itemsep=2pt]
+    \item \textbf{Codeforces Specialist}: Max Rating \textbf{1585} (Top 5\% algorithmic problem solver).
+    \item \textbf{CodeChef 4$\star$ Star}: Max Rating \textbf{1843} (Division 1 Contender).
+    \item \textbf{AWS Cloud Computing Engineer Certified}: Cloud architecture, VPC, IAM, EC2, S3, RDS, ECS.
+    \item \textbf{PW Skills Backend Specialization}: Comprehensive distributed backend engineering \& design patterns.
+\end{itemize}
 
-### `> whoami`
+%----------------------------------------------------------------------------------------
+% TECHNICAL SKILLS
+%----------------------------------------------------------------------------------------
+\section{Technical Skills \& Core Arsenal}
+\begin{itemize}[leftmargin=*,itemsep=2pt]
+    \item \textbf{Languages:} C++, Go (Golang), TypeScript, JavaScript, SQL
+    \item \textbf{Backend \& Microservices:} Node.js, Express.js, RESTful APIs, gRPC, Concurrency, Socket.IO, JWT
+    \item \textbf{Databases \& Caching:} PostgreSQL, Redis (Caching, Pub/Sub, In-Memory Streams), Sequelize, NFV/SDN
+    \item \textbf{Distributed Infrastructure:} Apache Kafka, Docker, Kubernetes, Nginx, AWS, GitHub Actions CI/CD
+    \item \textbf{Frontend Support:} React, Next.js, Vite, Tailwind CSS
+\end{itemize}
 
-**Backend-focused software engineer** obsessed with building reliable systems, clean APIs and scalable architectures.
+%----------------------------------------------------------------------------------------
+% FEATURED PROJECTS
+%----------------------------------------------------------------------------------------
+\section{Featured Engineering Projects}
 
-Currently deep into **Go, distributed systems, databases, system design and cloud infrastructure.**
+\textbf{EventFlow --- Scalable Event Registration \& Dynamic Check-in Platform} \hfill \textit{Go, PostgreSQL, Redis, React, Docker}
+\begin{itemize}[leftmargin=*,itemsep=1pt]
+    \item Architected high-concurrency event registration backend handling burst traffic during rapid ticket releases.
+    \item Implemented granular Role-Based Access Control (RBAC) across multi-tenant organizations and event organizers.
+    \item Developed single-use cryptographically signed QR token generation with sub-10ms scan verification via Redis caching.
+    \item Dockerized microservices stack with automated GitHub Actions CI/CD pipeline and automated test coverage.
+\end{itemize}
 
-I like taking a problem → breaking it down → designing the system → shipping it.
+\vspace{3pt}
 
----
+\textbf{LedgerPay --- Distributed Transactional Ledger System} \hfill \textit{Node.js, PostgreSQL, Redis, REST APIs}
+\begin{itemize}[leftmargin=*,itemsep=1pt]
+    \item Built double-entry bookkeeping ledger engine guaranteeing ACID consistency and auditability across concurrent transactions.
+    \item Enforced idempotency key mechanisms and distributed locks in Redis to prevent duplicate debit/credit executions.
+\end{itemize}
 
-### `⚙️ SYSTEM`
+\vspace{3pt}
 
-```text
-LANGUAGES    →  Go · C++ · TypeScript · JavaScript · SQL
+\textbf{Real-Time High-Throughput Chat Server} \hfill \textit{Node.js, Socket.IO, PostgreSQL, Redis Pub/Sub}
+\begin{itemize}[leftmargin=*,itemsep=1pt]
+    \item Engineered bi-directional WebSocket cluster with horizontal scaling facilitated by Redis Pub/Sub adapter.
+    \item Maintained connection pooling, delivery guarantees, message history pagination, and low memory footprints.
+\end{itemize}
 
-BACKEND      →  Go · Node.js · REST · JWT · RBAC · WebSockets
+\vspace{3pt}
 
-DATA         →  PostgreSQL · Redis · Kafka
+\textbf{UberRescue --- Disaster \& Emergency Assistance Platform} \hfill \textit{React, Node.js, PostgreSQL, AWS}
+\begin{itemize}[leftmargin=*,itemsep=1pt]
+    \item Designed emergency incident intake pipeline with geo-coordinate dispatch mapping and real-time responder telemetry.
+\end{itemize}
 
-INFRA        →  Docker · AWS · Linux · Nginx · CI/CD
+%----------------------------------------------------------------------------------------
+% EDUCATION & PHILOSOPHY
+%----------------------------------------------------------------------------------------
+\section{Education \& Philosophy}
+\begin{itemize}[leftmargin=*,itemsep=2pt]
+    \item \textbf{Bachelor of Engineering (B.E.)} $\vert$ India (2022--2026)
+    \item \textbf{Engineering Philosophy:} Code. Scale. Debug. Repeat. Prioritizing memory efficiency, zero-downtime reliability, and clean system abstractions.
+\end{itemize}
 
-INTERESTS    →  Distributed Systems · System Design · DSA
-```
-
----
-
-### `🚀 DEPLOYED IN MY BRAIN`
-
-<table>
-<tr>
-<td width="50%">
-
-**EVENTFLOW**
-
-Event registration & check-in platform.
-
-`Go` `PostgreSQL` `Redis` `React` `Docker`
-
-→ **RBAC · Tickets · QR Check-in · APIs**
-
-[View Project →](https://github.com/YOUR_USERNAME/EVENTFLOW)
-
-</td>
-
-<td width="50%">
-
-**LEDGERPAY**
-
-Distributed payments & ledger system.
-
-`Go` `PostgreSQL` `Redis`
-
-→ **Transactions · Idempotency · Ledger**
-
-[View Project →](https://github.com/YOUR_USERNAME/LEDGERPAY)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### `> CURRENTLY_BUILDING`
-
-**Distributed Systems · System Design · Go · Cloud Infrastructure**
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160">
-
-<br><br>
-
-**Codeforces:** `1585 • Specialist`
-**CodeChef:** `1843 • 4★`
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/YOUR_USERNAME/">LinkedIn</a>
-  •   <a href="mailto:YOUR_EMAIL">Email</a>
-  •   <a href="https://github.com/YOUR_USERNAME">GitHub</a>
-
-<br><br>
-
-`[ SYSTEM STATUS: ONLINE ]`
-
-</div>
+\end{document}
