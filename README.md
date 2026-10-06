@@ -1,8 +1,8 @@
 <!-- PROFILE HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:8b5cf6&height=220&section=header&text=Alex%20Kumar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:8b5cf6&height=220&section=header&text=Akshat%20Shrivastava&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
   <h3>Creative engineer crafting thoughtful digital experiences.</h3>
-  <p><a href="https://github.com/alex-kumar">github.com/alex-kumar</a> · building in public · open to great ideas</p>
+  <p><a href="https://github.com/AkshatShrivastava0104">github.com/Akshat Shrivastava</a> · building in public · open to great ideas</p>
 </div>
 
 <p align="center">
