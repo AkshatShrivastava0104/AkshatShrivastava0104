@@ -24,7 +24,7 @@ I turn complex problems into simple, useful products. Currently exploring **Type
 
 ## 🧰 Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,aws,docker,figma&theme=dark" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,aws,docker,Golang&theme=dark" alt="Technology icons" />
 </p>
 
 ## 🐍 Contributions in motion
