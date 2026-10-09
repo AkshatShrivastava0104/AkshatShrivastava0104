@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">Akshat Kumar — Backend Developer</title>
+<desc id="desc">Animated dark glass profile card for Akshat Kumar, backend developer and competitive programmer.</desc>
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07111f"/>
+    <stop offset="1" stop-color="#0c1728"/>
+  </linearGradient>
+  <radialGradient id="blueGlow">
+    <stop offset="0" stop-color="#247bff" stop-opacity=".30"/>
+    <stop offset="1" stop-color="#247bff" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="redGlow">
+    <stop offset="0" stop-color="#ff354f" stop-opacity=".20"/>
+    <stop offset="1" stop-color="#ff354f" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+  <style>
+    .sans{font-family:Inter,Segoe UI,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+  </style>
+</defs>
+
+<!-- Background -->
+<rect width="1200" height="650" fill="url(#bg)"/>
+<circle cx="180" cy="110" r="250" fill="url(#blueGlow)" filter="url(#blur)"/>
+<circle cx="1060" cy="560" r="260" fill="url(#redGlow)" filter="url(#blur)"/>
+
+<!-- Header -->
+<text x="74" y="76" class="mono" font-size="12" letter-spacing="2" fill="#6686ae">AKSHAT / DEVELOPER PROFILE</text>
+<circle cx="1092" cy="68" r="5" fill="#48d597"/>
+<text x="1108" y="73" class="mono" font-size="10" fill="#7f9bbb">OPEN TO SDE OPPORTUNITIES</text>
+
+<!-- Main glass panel -->
+<rect x="54" y="112" width="1092" height="470" rx="18" fill="#0b1627" stroke="#213a5b"/>
+<rect x="55" y="113" width="1090" height="468" rx="18" fill="none" stroke="#142842"/>
+
+<!-- Left identity -->
+<rect x="82" y="145" width="430" height="382" rx="14" fill="#081321" stroke="#203b5e"/>
+<circle cx="296" cy="257" r="91" fill="#0e1f35" stroke="#2b527c" stroke-width="2"/>
+<circle cx="296" cy="257" r="73" fill="#102943"/>
+<text x="296" y="280" text-anchor="middle" class="sans" font-size="58" font-weight="700" fill="#8dbdff">AK</text>
+<circle cx="361" cy="321" r="10" fill="#48d597" stroke="#081321" stroke-width="5"/>
+
+<text x="110" y="391" class="sans" font-size="36" font-weight="700" fill="#f2f5ff">Akshat Kumar</text>
+<text x="110" y="421" class="mono" font-size="13" fill="#80b5ff">BACKEND DEVELOPER • SDE</text>
+<text x="110" y="456" class="mono" font-size="12" fill="#8fa8c6">C++ • Go • Node.js • PostgreSQL</text>
+<text x="110" y="480" class="mono" font-size="12" fill="#8fa8c6">Redis • Kafka • Docker • AWS</text>
+<path d="M110 501H465" stroke="#233d61"/>
+<text x="110" y="517" class="mono" font-size="10" letter-spacing="1.4" fill="#6686ae">BUILDING SYSTEMS THAT SCALE.</text>
+
+<!-- Right animated slides -->
+<g>
+  <!-- slide 1 -->
+  <g>
+    <animate attributeName="opacity" dur="15s" repeatCount="indefinite"
+      values="1;1;0;0;0;1" keyTimes="0;.293;.333;.626;.667;1"/>
+    <rect x="548" y="145" width="570" height="382" rx="14" fill="#0d1829" stroke="#233d61"/>
+    <ellipse cx="835" cy="295" rx="280" ry="190" fill="url(#blueGlow)"/>
+    <text x="578" y="185" class="mono" font-size="12" letter-spacing="1.8" fill="#8e9db9">01 / BUILD</text>
+    <text x="578" y="233" class="sans" font-size="38" font-weight="700" fill="#f2f5ff">EventFlow</text>
+    <text x="578" y="261" class="mono" font-size="12" fill="#80b5ff">EVENT REGISTRATION &amp; CHECK-IN SYSTEM</text>
+
+    <rect x="578" y="292" width="500" height="55" rx="7" fill="#091321" stroke="#1d3553"/>
+    <text x="596" y="316" class="mono" font-size="11" fill="#56779f">ARCHITECTURE</text>
+    <text x="596" y="336" class="mono" font-size="13" fill="#f2f5ff">API → Go → PostgreSQL → Redis</text>
+
+    <text x="578" y="378" class="mono" font-size="11" fill="#56779f">ENGINEERING FOCUS</text>
+    <text x="578" y="402" class="mono" font-size="14" fill="#f2f5ff">RBAC • JWT • QR CHECK-IN • CACHING</text>
+
+    <text x="578" y="441" class="mono" font-size="11" fill="#56779f">SHIP MODE</text>
+    <text x="578" y="465" class="mono" font-size="14" fill="#48d597">Design → Build → Test → Deploy</text>
+
+    <rect x="578" y="488" width="500" height="2" fill="#1c3555"/>
+    <text x="578" y="512" class="mono" font-size="10" fill="#6686ae">REAL PRODUCT. REAL BOTTLENECKS. REAL LEARNING.</text>
+  </g>
+
+  <!-- slide 2 -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="15s" repeatCount="indefinite"
+      values="0;0;1;1;0;0" keyTimes="0;.293;.333;.626;.667;1"/>
+    <rect x="548" y="145" width="570" height="382" rx="14" fill="#0d1829" stroke="#233d61"/>
+    <ellipse cx="850" cy="300" rx="285" ry="190" fill="url(#redGlow)"/>
+    <text x="578" y="185" class="mono" font-size="12" letter-spacing="1.8" fill="#8e9db9">02 / SOLVE</text>
+    <text x="578" y="233" class="sans" font-size="38" font-weight="700" fill="#f2f5ff">Competitive Programming</text>
+
+    <rect x="578" y="268" width="500" height="78" rx="7" fill="#091321" stroke="#1d3553"/>
+    <text x="598" y="294" class="mono" font-size="11" fill="#56779f">CURRENT SIGNAL</text>
+    <text x="598" y="322" class="sans" font-size="24" font-weight="700" fill="#ff6a7b">CodeChef 4★</text>
+    <text x="825" y="322" class="mono" font-size="13" fill="#a8bdd7">1843 rating</text>
+
+    <text x="578" y="375" class="mono" font-size="11" fill="#56779f">CODEFORCES</text>
+    <text x="578" y="400" class="mono" font-size="16" fill="#f2f5ff">Specialist • 1585</text>
+
+    <text x="578" y="438" class="mono" font-size="11" fill="#56779f">THINKING STYLE</text>
+    <text x="578" y="463" class="mono" font-size="14" fill="#f2f5ff">DSA • DP • GREEDY • GRAPHS • OPTIMIZATION</text>
+
+    <text x="578" y="504" class="mono" font-size="10" fill="#6686ae">UNDERSTAND → MODEL → OPTIMIZE → ACCEPT</text>
+  </g>
+
+  <!-- slide 3 -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="15s" repeatCount="indefinite"
+      values="0;0;0;0;1;1" keyTimes="0;.293;.333;.626;.667;1"/>
+    <rect x="548" y="145" width="570" height="382" rx="14" fill="#0d1829" stroke="#233d61"/>
+    <ellipse cx="850" cy="300" rx="285" ry="190" fill="url(#blueGlow)"/>
+    <text x="578" y="185" class="mono" font-size="12" letter-spacing="1.8" fill="#8e9db9">03 / STACK</text>
+    <text x="578" y="233" class="sans" font-size="38" font-weight="700" fill="#f2f5ff">Backend Mindset</text>
+
+    <text x="578" y="275" class="mono" font-size="11" fill="#56779f">LANGUAGES</text>
+    <text x="578" y="299" class="mono" font-size="15" fill="#f2f5ff">Go • C++ • TypeScript • JavaScript</text>
+
+    <text x="578" y="335" class="mono" font-size="11" fill="#56779f">BACKEND</text>
+    <text x="578" y="359" class="mono" font-size="15" fill="#f2f5ff">Gin • Node.js • Express • REST APIs</text>
+
+    <text x="578" y="395" class="mono" font-size="11" fill="#56779f">DATA &amp; INFRA</text>
+    <text x="578" y="419" class="mono" font-size="15" fill="#f2f5ff">PostgreSQL • Redis • Kafka • Docker</text>
+
+    <text x="578" y="455" class="mono" font-size="11" fill="#56779f">CURRENT FOCUS</text>
+    <text x="578" y="480" class="mono" font-size="14" fill="#48d597">Scalability • Security • Observability</text>
+
+    <text x="578" y="512" class="mono" font-size="10" fill="#6686ae">LEARN THE THEORY. BUILD THE SYSTEM.</text>
+  </g>
+</g>
+
+<!-- Footer -->
+<path d="M82 610H1118" stroke="#1b304c"/>
+<text x="82" y="632" class="mono" font-size="10" fill="#6686ae">github.com/akshat-shrivastava</text>
+<text x="1118" y="632" text-anchor="end" class="mono" font-size="10" fill="#6686ae">01 / 03 • AUTO PLAY</text>
+</svg>
