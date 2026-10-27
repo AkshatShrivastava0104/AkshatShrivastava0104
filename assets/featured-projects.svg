@@ -1,0 +1,50 @@
+<svg fill="none" width="800" height="210" viewBox="0 0 800 210" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; rx: 12px; stroke: #30363d; stroke-width: 1.5; }
+    .card-bg { fill: #161b22; stroke: #30363d; stroke-width: 1px; rx: 8px; }
+    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 800; font-size: 15px; fill: #58a6ff; }
+    .subtitle { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 11px; fill: #8b949e; }
+    .metric-label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 11px; fill: #8b949e; }
+    .metric-val { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; font-weight: 700; fill: #3fb950; }
+  </style>
+
+  <rect width="800" height="210" class="bg" />
+
+  <!-- Project 1: Event Flow -->
+  <g transform="translate(30, 20)">
+    <rect width="355" height="170" class="card-bg" />
+    <text x="20" y="30" class="title">Event Flow</text>
+    <text x="335" y="30" font-family="Segoe UI" font-size="11px" fill="#00e5ff" text-anchor="end" font-weight="700">Go &#8226; Redis &#8226; Outbox</text>
+    <text x="20" y="48" class="subtitle">Multi-Tenant Event Management Platform</text>
+    
+    <line x1="20" y1="62" x2="335" y2="62" stroke="#21262d" />
+
+    <text x="20" y="85" class="metric-label">Pipeline Throughput:</text>
+    <text x="335" y="85" class="metric-val" text-anchor="end">1,180 notifications/sec</text>
+
+    <text x="20" y="110" class="metric-label">P95 Persistence Latency:</text>
+    <text x="335" y="110" class="metric-val" text-anchor="end">1.75 ms</text>
+
+    <text x="20" y="135" class="metric-label">Enqueue Speed:</text>
+    <text x="335" y="135" class="metric-val" text-anchor="end">17 ms</text>
+  </g>
+
+  <!-- Project 2: HookPulse -->
+  <g transform="translate(415, 20)">
+    <rect width="355" height="170" class="card-bg" />
+    <text x="20" y="30" class="title">HookPulse</text>
+    <text x="335" y="30" font-family="Segoe UI" font-size="11px" fill="#00e5ff" text-anchor="end" font-weight="700">FastAPI &#8226; Python &#8226; Docker</text>
+    <text x="20" y="48" class="subtitle">Real-Time Webhook Ingestion Engine</text>
+
+    <line x1="20" y1="62" x2="335" y2="62" stroke="#21262d" />
+
+    <text x="20" y="85" class="metric-label">Payload Success Rate:</text>
+    <text x="335" y="85" class="metric-val" text-anchor="end">99.6% (1,734 delivered)</text>
+
+    <text x="20" y="110" class="metric-label">P95 Latency Improvement:</text>
+    <text x="335" y="110" class="metric-val" text-anchor="end">2.19s &#10142; 1.04s</text>
+
+    <text x="20" y="135" class="metric-label">PostgreSQL Query Time:</text>
+    <text x="335" y="135" class="metric-val" text-anchor="end">Optimized -21.2%</text>
+  </g>
+</svg>
