@@ -1,4 +1,3 @@
-# Akshat Shrivastava — GitHub Profile
 
 <p align="center">
   <img src="assets/hero-banner.svg" alt="Akshat Shrivastava Header Banner" width="100%" />
