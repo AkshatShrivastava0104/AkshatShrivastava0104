@@ -15,7 +15,7 @@ Backend Engineer passionate about building **high-throughput microservices**, **
 ---
 
 <p align="center">
-  <img src="assets/tech-stack.svg" alt="Technical Stack & Hardware Intelligence" width="100%" />
+  <img src="assets/tech-stack.png" alt="Technical Stack & Hardware Intelligence" width="100%" />
 </p>
 
 ---
