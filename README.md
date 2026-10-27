@@ -14,6 +14,33 @@ Backend Engineer passionate about building **high-throughput microservices**, **
 
 ---
 
+### 📊 Real-Time GitHub Analytics & Stats (Auto-Updating)
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=sshrivastava-akshat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Akshat's GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=sshrivastava-akshat&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sshrivastava-akshat&theme=tokyonight&hide_border=true" alt="GitHub Commit Streak" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://komarev.com/ghpvc/?username=sshrivastava-akshat&label=Profile%20Views&color=00e5ff&style=for-the-badge" alt="Profile Views Counter" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sshrivastava-akshat&theme=tokyonight&hide_border=true" alt="Commit Activity Graph" width="100%" />
+</p>
+
+---
+
 <p align="center">
   <img src="assets/tech-stack.png" alt="Technical Stack & Hardware Intelligence" width="100%" />
 </p>
