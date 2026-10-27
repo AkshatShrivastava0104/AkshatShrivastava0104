@@ -22,7 +22,7 @@ Backend Engineer passionate about building **high-throughput microservices**, **
       <img src="https://github-readme-stats.vercel.app/api?username=AkshatShrivastava0104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Akshat's GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=AkshatShrivastava0104&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=AkshatShrivastava0104&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" width="100%" />
     </td>
   </tr>
   <tr>
