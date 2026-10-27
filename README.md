@@ -19,24 +19,24 @@ Backend Engineer passionate about building **high-throughput microservices**, **
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sshrivastava-akshat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Akshat's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AkshatShrivastava0104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Akshat's GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=sshrivastava-akshat&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=AkshatShrivastava0104&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages" width="100%" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sshrivastava-akshat&theme=tokyonight&hide_border=true" alt="GitHub Commit Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatShrivastava0104&theme=tokyonight&hide_border=true" alt="GitHub Commit Streak" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://komarev.com/ghpvc/?username=sshrivastava-akshat&label=Profile%20Views&color=00e5ff&style=for-the-badge" alt="Profile Views Counter" />
+      <img src="https://komarev.com/ghpvc/?username=AkshatShrivastava0104&label=Profile%20Views&color=00e5ff&style=for-the-badge" alt="Profile Views Counter" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sshrivastava-akshat&theme=tokyonight&hide_border=true" alt="Commit Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatShrivastava0104&theme=tokyonight&hide_border=true" alt="Commit Activity Graph" width="100%" />
 </p>
 
 ---
